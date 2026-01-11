@@ -16,13 +16,27 @@
   </a>
 </p>
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juststudevpuc&show_icons=true&theme=transparent&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juststudevpuc&layout=compact&theme=transparent&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juststudevpuc&show_icons=true&theme=dark&hide_border=true" alt="Stats Card" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juststudevpuc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📬 Connect with me
-[Facebook](https://www.facebook.com/On.lySak2006) • [Telegram](https://t.me/tep_panhasak) • [LinkedIn](YOUR_LINKEDIN_URL)
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.facebook.com/On.lySak2006" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://t.me/tep_panhasak" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="http://linkedin.com/in/tep-panhasak-73420b390">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sak220506@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
