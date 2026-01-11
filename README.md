@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=3rd+Year+CS+Student;Full-Stack+Web+Developer;React+%26+Laravel+Expert" alt="Typing SVG" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juststudevpuc&theme=flat&column=7" alt="trophy" />
-  </a>
-</p>
-
 ### 🚀 About Me
 - 📍 **Location:** Phnom Penh, Cambodia 🇰🇭
 - 🎓 **Education:** 3rd Year Computer Science Student
@@ -27,10 +20,6 @@
   </a>
 </p>
 
-### 🐍 My Contribution Snake
-![snake](https://github.com/juststudevpuc/juststudevpuc/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Connect with me
 <p align="left">
