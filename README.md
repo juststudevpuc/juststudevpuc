@@ -1,10 +1,21 @@
 # Hi, I'm Tep Panhasak 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juststudevpuc&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=3rd+Year+CS+Student;Full-Stack+Web+Developer;React+%26+Laravel+Expert" alt="Typing SVG" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=juststudevpuc&theme=flat&column=7" alt="trophy" />
+  </a>
+</p>
+
 ### 🚀 About Me
+- 📍 **Location:** Phnom Penh, Cambodia 🇰🇭
 - 🎓 **Education:** 3rd Year Computer Science Student
 - 💻 **Focus:** Building clean, modern, and high-performance web applications.
 - 🛠️ **Current Stack:** Laravel, Spring Boot, React, and Tailwind CSS.
@@ -16,27 +27,23 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juststudevpuc&show_icons=true&theme=dark&hide_border=true" alt="Stats Card" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juststudevpuc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+### 🐍 My Contribution Snake
+![snake](https://github.com/juststudevpuc/juststudevpuc/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.facebook.com/On.lySak2006" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://t.me/tep_panhasak" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="http://linkedin.com/in/tep-panhasak-73420b390">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sak220506@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
