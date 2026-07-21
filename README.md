@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=3rd+Year+CS+Student;Full-Stack+Web+Developer;React+%26+Laravel+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=3rd+Year+CS+Student;Full-Stack+Web+Developer;React+%26+Laravel" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
